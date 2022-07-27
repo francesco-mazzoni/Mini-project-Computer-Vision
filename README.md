@@ -1,5 +1,9 @@
 # AR mirror for sportive training application
 
+## Introduction
+
+In this repository I show a little project done in the Computer Vision course. The project is carried out also with Alessandro Castellaz. The project consists in studying the MediaPipe library in two gym exercises.
+
 ## Basic libraryes used
 
 In order to run the code of this project two main libraries are needed, Opencv and numpy. OpenCV is an open source computer vision and machine learning software library while NumPy is a Python library used for working with arrays and for working in domain of linear algebra, fourier transform, and matrices.
